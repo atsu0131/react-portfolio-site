@@ -9,9 +9,7 @@ import { Contact } from "./components/Contact";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Header />
-    <Skills />
-    <Contact />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
