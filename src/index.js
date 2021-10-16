@@ -3,9 +3,9 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import { Header } from "./components/Header";
-import { Skills } from "./components/Skills";
-import { Contact } from "./components/Contact";
+// import { Header } from "./components/Header";
+// import { Skills } from "./components/Skills";
+// import { Contact } from "./components/Contact";
 
 ReactDOM.render(
   <React.StrictMode>
